@@ -1,0 +1,7 @@
+{
+    "name": "microgrid",
+    "version": "0.1.0",
+    "author": "Xavier Weiss (xavierw@kth.se)",
+    "description": "Microgrid energy management systems",
+        "dependencies": { "server" : "7.20.0" }
+}
